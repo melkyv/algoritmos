@@ -1,6 +1,5 @@
 Algoritmo "tipo_de_triangulo"
 // Disciplina  : Lógica de Programação e Algoritmos
-// Professor   : Diego Cordeiro
 // Descrição   : Dizer se um triângulo é equilátero,isósceles ou escaleno
 // Autor(a)    : Melky Vinicius de Oliveira Norberto
 // Data atual  : 06/09/2022

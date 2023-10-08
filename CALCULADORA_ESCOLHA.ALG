@@ -1,6 +1,5 @@
 Algoritmo "calculadora_escolha"
 // Disciplina  : Lógica de Programação e Algoritmos
-// Professor   : Diego Cordeiro
 // Descrição   : Realiza uma operação entre dois números reais
 // Autor(a)    : Melky Vinicius
 // Data atual  : 14/09/2022

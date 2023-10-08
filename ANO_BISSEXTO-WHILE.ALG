@@ -1,7 +1,6 @@
 Algoritmo "Ano_Bissexto"
 //
 // Disciplina  : Algoritmos e Lógica de Programação
-// Professor   : Diego Cordeiro
 // Descrição   : Algoritmo para determinar se um ano é bissexto ou não
 // Autor(a)    : Melky Vinicius
 // Data atual  : 18/08/2022
